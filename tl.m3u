@@ -1,8 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.gettr.com/group27/tw/2021/07/03/18/2a06d82d-9af0-c33e-5a0b-a5f0f15076d9/330f9df2a8c2831b52ed8505335f2d1a_384x0.jpg" parent-code="" group-title="AO VIVO", TERÇA LIVRE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712791248/ei/cMoWZoGhDYmOobIPioGPWA/ip/189.83.71.189/id/baefc1e32c0084e3/itag/270/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgovp/clen%3D10772896631%3Bdur%3D28775.040%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1709059647089776/rqh/1/hls_chunk_host/rr2---sn-uxaxh5g-bpble.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/sv/mm/31,26/mn/sn-uxaxh5g-bpble,sn-bg0eznzl/ms/au,onr/mv/m/mvi/2/pl/23/initcwndbps/1305000/vprv/1/playlist_type/DVR/dover/13/txp/4432434/mt/1712768690/fvip/4/short_key/1/keepalive/yes/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgovp,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRQIgY6CbkX-6P3VG5cPz7x06B6RQLoQ-WAmredggGlnpqzsCIQD4Bg_huTE2TookTXycUXS7EF6up9ZE8lCQlzX_AJpROA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/ALClDIEwRgIhAJOVq0ubnu04-T2Dxi2jzhlTBlxOe7vQ9blRMMTBgQgKAiEAp9uQeB-nw1jmjEDyi8krIfiozpZn6Wc95wOJ_yzNaHI%3D/playlist/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.gettr.com/group27/tw/2021/07/03/18/2a06d82d-9af0-c33e-5a0b-a5f0f15076d9/330f9df2a8c2831b52ed8505335f2d1a_384x0.jpg" parent-code="" group-title="AO VIVO", TERÇA LIVRE LIVE X
 
 
 
