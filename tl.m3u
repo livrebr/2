@@ -12,8 +12,7 @@ https://hugh.cdn.rumble.cloud/video/s8/2/n/S/h/6/nSh6q.caa.mp4?u=0&b=0
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", REVISTA OESTE
-http://youtube.com/channel/UCBQAI1ZhurW3nbtJR-gBBZg/live
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712890139/ei/u0wYZuqHHMX41gKtqpv4AQ/ip/185.182.193.115/id/ikA5Rjc3Gvw.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-5hne6nzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/488750/mh/Se/mm/44/mn/sn-5hne6nzy/ms/lva/mv/m/mvi/2/pl/24/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1712868270/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgJia7Sa1rl2lon7xTH-fVclnTAmaMpOsSdJy_wPN9exoCICPi3VBLhRyD5RW5EmKaoBBD4N_vj0oxc5sv2xPxDQhm/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhAJCpSOmUOtbHH-Kq2F-ySC-M9Qm9DsO62NMIR7UBKhbmAiAfPFS-0t6Frgt1ZNv1VgqL6susR3pI2eJAn09aEBrCIw%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1441347241587863559/BF5j809N_400x400.jpg" parent-code="" group-title="", TERÇA LIVRE
 https://hugh.cdn.rumble.cloud/video/s8/2/h/z/i/6/hzi6q.gaa.mp4?u=0&b=0
