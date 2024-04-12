@@ -2,43 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", BRSL IPTV
 https://hugh.cdn.rumble.cloud/video/s8/2/v/h/_/5/vh_5q.gaa.mp4?u=0&b=0
-#EXTINF:-1 tvg-id="" tg-name="" tvg-logo="" parent-code="" group-title="", CHAMADA MANIFESTAÇÃO 21/4
-https://rumble.com/c-2862666/live
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nWphFP6Sq7up3qVcahQaiRhq0wOg-EycycC35T6TXxLw=s900-c-k-c0x00ffffff-no-rj" parent-code="" group-title="", BRADO RÁDIO
-http://youtube.com/channel/UCBtpKi29d2LQTYJWTKPHAvg/live
-https://hugh.cdn.rumble.cloud/video/s8/2/n/S/h/6/nSh6q.caa.mp4?u=0&b=0
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", REVISTA OESTE
-	
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712890139/ei/u0wYZuqHHMX41gKtqpv4AQ/ip/185.182.193.115/id/ikA5Rjc3Gvw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/3600/manifest_duration/3600/demuxed/1/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMLyfa6n_BT0HVe60K9wfcKPImdXiCTq3RgYHPyYTfcYCIQCIOXyqrhIVEqJSJFrRW0QS7-hFrjN1zVUa8xY0U_iaSA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1441347241587863559/BF5j809N_400x400.jpg" parent-code="" group-title="", TERÇA LIVRE
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/nNmSEv76DeuynOaD0x82LUEwhLEZVuslsuxPQs7lsxbae2qVd4TvfnhDsFb57ojWfk03oyQ2hsFPVW8RvBe9DA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/lgfCWDqmUMepJ86T8EC9Im6PGF6qh0rQAiUF8nYDxV9H7HN3PZqfMB0JTf3a20QWRZSLYHDP=s900-c-k-c0x00ffffff-no-rj" parent-code="" group-title="", Programa 4por4
-http://youtube.com/channel/UCr1PUcWPlS9aqdmvcMzp-sA/live
-https://hugh.cdn.rumble.cloud/video/s8/2/E/6/y/6/E6y6q.gaa.mp4?u=0&b=0
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/nuROVDXU1oeCZYyE9yKtYAGKkS6oPy-mLeUxXl6HFhUzdwhPnVX1qo9nk8deESRHovlwsFtpbw=s176-c-k-c0x00ffffff-no-rj" parent-code="" group-title="", Rádio Auri Verde Brasil
-https://www.youtube.com/watch?v=-H_UZKJLTOY&embeds_referring_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=MjM4NTE&feature=emb_title
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoWKB7Gms6hxKNDmU3GCEEtwdJGDqsdt_KHyGsb_0pSg&s" parent-code="" group-title="", Paulo Figueiredo Show
-http://youtube.com/channel/UCgwcuts-Mx4nOKb1d1vY39w/live
+#EXTINF:-1 tvg-id="" tg-name="" tvg-logo="" parent-code="" group-title="", LIVRE BRASIL TV
+https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-85/b4bs-hdir/chunklist_DVR.m3u8
 
 
 
