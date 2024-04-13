@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", BRSL IPTV
-https://raw.githubusercontent.com/livrebr/tl1/ter%C3%A7alivre/playlist.m3u
-
+https://raw.githubusercontent.com/livrebr/tl1/ter%C3%A7alivre/playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", AO VIVO: TERÇA*LIVRE
 https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/qKg22GoKARt9W7o6xRk1b5SuBeOTn0RKlznqB5ykipHr_YI06tr3AEt3YGJoM_y5G7b2GRTqjIJjtDLvBdBqow/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 
