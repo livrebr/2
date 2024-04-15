@@ -3,6 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", BRSL IPTV
 https://cdn.efficientvideo.com/44626a67-cfe1-4d64-a83b-84bb60da784f/f11c4267-166d-44c4-a6aa-384301129531/variant/original/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", AO VIVO: TERÇA*LIVRE
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/2p3iiYaugR5mwucI6hCL-_OXo3hbqpkouPU4W2aJOO_Hmg6iieuwc1XsFQEBdvefeUdHbd_OxvXerbfSdjpztA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live
 
 
 
