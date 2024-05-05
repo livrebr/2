@@ -1,9 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", BRSL IPTV
-https://www.youtube.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA/live?controls=1&enablejsapi=1&rel=0&showinfo=0&autoplay=0&mute=0&modestbranding=1&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBT_Videos%2FEspeciais%2FSBT_Live%2Fvideo%22%2C%22cust_params%22%3A%22%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbt.com.br&widgetid=1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", AO VIVO: TERÇA*LIVRE
+https://www.youtube.com/channel/UCvJJ_dzjViJCoLf5uKUTwoA/live
+UCK8of7NJhRnyYRH1LlZ-Ubw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" parent-code="" group-title="", AO VIVO: FIO DIARIO
+https://www.youtube.com/channel/UCK8of7NJhRnyYRH1LlZ-Ubw/live
 
 
 
